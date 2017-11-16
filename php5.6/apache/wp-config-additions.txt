@@ -1,0 +1,3 @@
+define('WP_HOME','http://local.docker');
+define('WP_SITEURL','http://local.docker');
+define('FORCE_SSL_ADMIN', false);
